@@ -4,8 +4,8 @@
     <w:rPrDefault>
       <w:rPr>
         <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
-        <w:sz w:val="24"/>
-        <w:szCs w:val="24"/>
+        <w:sz w:val="22"/>
+        <w:szCs w:val="22"/>
       </w:rPr>
     </w:rPrDefault>
     <w:pPrDefault>
